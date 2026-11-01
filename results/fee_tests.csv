@@ -1,0 +1,19 @@
+test,outcome,platform,reference,cells,cluster,estimate,se_cluster,ci_low,ci_high,p_value,rows,rows_dropped,cell_values,months,trips,reference_mean
+"Uber vs Lyft, all months",take_rate,Uber,Lyft,PULocationID,PULocationID,-0.02783,0.00330,-0.03429,-0.02137,0.00000,47024,944,257,92,1565293356,0.21615
+"Uber vs Lyft, all months",subsidized_share,Uber,Lyft,PULocationID,PULocationID,0.07782,0.00297,0.07200,0.08364,0.00000,47024,944,257,92,1565293356,0.08518
+"Uber vs Lyft, 2019-2021 (3-4 apps)",take_rate,Uber,Lyft,PULocationID,PULocationID,-0.08807,0.00200,-0.09199,-0.08415,0.00000,17806,433,257,35,477151816,0.22498
+"Uber vs Lyft, 2023-2026 (2 apps)",take_rate,Uber,Lyft,PULocationID,PULocationID,0.00083,0.00456,-0.00811,0.00978,0.85522,23090,375,257,45,878560002,0.21116
+"Uber vs Lyft, all months, month clusters",take_rate,Uber,Lyft,PULocationID,month,-0.02783,0.00510,-0.03782,-0.01785,0.00000,47024,944,257,92,1565293356,0.21615
+"Uber vs Lyft, 2019",take_rate,Uber,Lyft,PULocationID,PULocationID,-0.10525,0.00339,-0.11190,-0.09860,0.00000,5600,147,256,11,172575157,0.19249
+"Uber vs Lyft, 2020",take_rate,Uber,Lyft,PULocationID,PULocationID,-0.06719,0.00266,-0.07240,-0.06197,0.00000,6074,168,256,12,131929293,0.22073
+"Uber vs Lyft, 2021",take_rate,Uber,Lyft,PULocationID,PULocationID,-0.08817,0.00168,-0.09146,-0.08488,0.00000,6132,118,257,12,172647366,0.25510
+"Uber vs Lyft, 2022",take_rate,Uber,Lyft,PULocationID,PULocationID,-0.01961,0.00128,-0.02212,-0.01710,0.00000,6128,136,257,12,209581538,0.21877
+"Uber vs Lyft, 2023",take_rate,Uber,Lyft,PULocationID,PULocationID,0.02099,0.00322,0.01468,0.02730,0.00000,6160,97,257,12,225924963,0.18470
+"Uber vs Lyft, 2024",take_rate,Uber,Lyft,PULocationID,PULocationID,-0.00690,0.00526,-0.01721,0.00341,0.18942,6156,107,257,12,230645579,0.22565
+"Uber vs Lyft, 2025",take_rate,Uber,Lyft,PULocationID,PULocationID,0.01247,0.00510,0.00247,0.02246,0.01451,6148,106,257,12,236242910,0.20628
+"Uber vs Lyft, 2026",take_rate,Uber,Lyft,PULocationID,PULocationID,-0.02954,0.00479,-0.03893,-0.02015,0.00000,4626,65,257,9,185746550,0.23336
+"Uber vs Lyft, hour-of-day cells",take_rate,Uber,Lyft,hour,month,-0.01576,0.00552,-0.02658,-0.00493,0.00433,4416,0,24,92,1565349047,0.21733
+"Juno and Lyft vs Uber, Feb-Oct 2019",subsidized_share,Lyft,Uber,PULocationID,PULocationID,-0.24179,0.00520,-0.25198,-0.23161,0.00000,6324,708,243,9,142515580,0.33076
+"Juno and Lyft vs Uber, Feb-Oct 2019",subsidized_share,Juno,Uber,PULocationID,PULocationID,-0.04546,0.01118,-0.06737,-0.02356,0.00005,6324,708,243,9,142515580,0.33076
+"Juno and Lyft vs Uber, Feb-Oct 2019",take_rate,Lyft,Uber,PULocationID,PULocationID,0.11081,0.00248,0.10595,0.11567,0.00000,6324,708,243,9,142515580,0.07665
+"Juno and Lyft vs Uber, Feb-Oct 2019",take_rate,Juno,Uber,PULocationID,PULocationID,0.03099,0.00420,0.02275,0.03923,0.00000,6324,708,243,9,142515580,0.07665

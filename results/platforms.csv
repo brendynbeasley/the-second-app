@@ -1,0 +1,5 @@
+platform,first_month_in_tlc_data,last_month_in_tlc_data,peak_trip_share_since_2016,trip_share_2025,peak_vehicles,mean_monthly_vehicles_2025,take_rate_2019,subsidized_share_2019,take_rate_2025,subsidized_share_2025,trips_2025,trips_per_vehicle_relative_to_uber
+Uber,2015-01,2026-05,0.8318,0.7225,79178.0000,73209.5000,0.0950,0.3320,0.2415,0.1460,169019854.0000,
+Lyft,2015-04,2026-05,0.3060,0.2775,61436.0000,54747.5000,0.1918,0.0898,0.2091,0.0825,67228639.0000,0.4772
+Juno,2016-03,2019-11,0.0801,0.0000,21994.0000,,0.1199,0.2838,,,,0.2053
+Via,2015-04,2021-10,0.0740,0.0000,6787.0000,,0.1719,0.2122,,,,0.7951

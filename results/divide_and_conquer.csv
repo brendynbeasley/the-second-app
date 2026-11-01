@@ -1,0 +1,4 @@
+platform,first_month,last_month,months,mean_log_gap_trips_per_vehicle,se_hac,ci_low,ci_high,p_value,trips_per_vehicle_relative_to_uber,ratio_ci_low,ratio_ci_high,peak_trip_share,peak_month_trip_share,peak_vehicles,peak_fleet_relative_to_uber,mean_fleet_relative_to_uber,mean_trips_relative_to_uber
+Lyft,2015-04,2026-05,134,-0.7399,0.0281,-0.7949,-0.6849,0.0000,0.4772,0.4516,0.5041,0.3060,2026-05,61436.0000,0.8293,0.6330,0.3097
+Juno,2016-03,2019-11,45,-1.5833,0.2151,-2.0048,-1.1617,0.0000,0.2053,0.1347,0.3129,0.0801,2018-01,21994.0000,0.3312,0.2724,0.0720
+Via,2015-04,2021-10,79,-0.2293,0.2804,-0.7788,0.3202,0.4134,0.7951,0.4589,1.3774,0.0740,2017-08,6787.0000,0.0900,0.0623,0.0592

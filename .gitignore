@@ -1,0 +1,17 @@
+# Monthly TLC trip files (about 500 MB each); src/build_data.py downloads them here and reduces them
+data/raw/tlc/
+*.parquet
+*.part
+
+# Secrets
+*.key
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# System
+.DS_Store
